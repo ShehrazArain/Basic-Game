@@ -1,2 +1,2 @@
 # Basic-Game
-made game with basic python programming. where you guess the secret number.
+Made a Simple Guess Game by using only If condition & while loop.

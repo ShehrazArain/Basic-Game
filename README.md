@@ -1,2 +1,2 @@
 # Basic-Game
-Made a Simple Guess Game by using only If condition & while loop.
+Made a Simple Guess Game by using just If condition & while loop.
